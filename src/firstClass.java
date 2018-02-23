@@ -17,6 +17,7 @@ public class firstClass { //the only thing you start with when making a new proj
 		
 		//note from prof: Indentation here is simply for the programmer, same for enters and other stuff
 		
+		//edit made from github website
 	}
 	
 }
