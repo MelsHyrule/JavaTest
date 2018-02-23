@@ -26,6 +26,8 @@ public class firstClass { //the only thing you start with when making a new proj
 		System.out.println("Now adding this print in the testBranch");
 		//the above line was added to testBranch, merged to master, testBranch deleted
 		//now this line is directly added to master to see if the deleted branch is eliminated from the repo 
+		
+		//deleting the branch locally doesnot delete the branch in the repo
 	}
 	
 }
