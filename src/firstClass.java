@@ -16,11 +16,11 @@ public class firstClass { //the only thing you start with when making a new proj
 		System.out.print("Was that a " + cat + " or a " + dog + " i saw???");
 		
 		//note from prof: Indentation here is simply for the programmer, same for enters and other stuff
-		
-		
+
 		
 		
 		//new line added from local
+		//edit made from github website
 	}
 	
 }
